@@ -8,3 +8,7 @@ https://paratranz.cn/projects/2240
 
 如果是mod本身的bug，可以去kenan的github项目反馈
 https://github.com/Kenan2000/CDDA-Kenan-Modpack
+
+此 Fork 仅包含 kenan 包里高维护项, 汉化方式改为
+https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/TRANSLATING_MOD.md
+中的 .mo 格式
